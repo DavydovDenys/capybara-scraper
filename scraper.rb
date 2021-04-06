@@ -58,9 +58,9 @@ class Scraper
   end
 end
 
-scraper = Scraper.new
-scraper.visit
-scraper.fill_in
-scraper.submit
-scraper.click_link
-scraper.get_all_vacancies
+# scraper = Scraper.new
+# scraper.visit
+# scraper.fill_in
+# scraper.submit
+# scraper.click_link
+# scraper.get_all_vacancies
